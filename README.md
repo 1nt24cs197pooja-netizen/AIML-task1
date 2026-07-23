@@ -20,3 +20,18 @@
 3.README.md
 ##OUTPUT
 Dataset is cleaned ,encoded,standardize and visualized
+## OUTPUT
+
+Dataset is cleaned, encoded, standardized, and visualized.
+
+### Output 1
+![Output 1](output1.png)
+
+### Output 2
+![Output 2](output2.png)
+
+### Output 3
+![Output 3](output3.png)
+
+### Boxplot for Outlier Detection
+![Boxplot](boxplot.png)
